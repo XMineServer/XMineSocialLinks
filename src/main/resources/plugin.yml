@@ -1,0 +1,28 @@
+name: XMineSocialLinks
+version: '1.0'
+main: su.xmine.socialLinks.XMineSocialLinks
+commands:
+  slreload:
+    description: Reload plugin
+    usage: /slreload
+    permission: xmine.socialLinks.slreload
+  telegram:
+    description: Show telegram link
+    usage: 'Usage: /telegram'
+    permission: xmine.socialLinks.telegram
+    aliases: [ телеграм ]
+  discord:
+    description: Show discord link
+    usage: 'Usage: /discord'
+    permission: xmine.socialLinks.discord
+    aliases: [ дискорд ]
+  vk:
+    description: Show vk link
+    usage: 'Usage: /vk'
+    permission: xmine.socialLinks.vk
+    aliases: [ вк ]
+  rules:
+    description: Show rules link
+    usage: 'Usage: /rules'
+    permission: xmine.socialLinks.vk
+    aliases: [ вк ]

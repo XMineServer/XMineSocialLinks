@@ -1,0 +1,12 @@
+telegram:
+  value: "https://www.xmine.su"
+  isJson: false
+discord:
+  value: "https://www.xmine.su"
+  isJson: false
+vk:
+  value: 'https://www.xmine.su'
+  isJson: false
+rules:
+  value: 'https://www.xmine.su'
+  isJson: false
